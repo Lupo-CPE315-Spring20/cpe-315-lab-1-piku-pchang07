@@ -4,5 +4,5 @@ Phoebe Chang
 * Lab is complete
 
 * Compilation instructions:
-    'gcc -o piku piku.s'
-    './piku'
+    * 'gcc -o piku piku.s'
+    * './piku'
